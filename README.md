@@ -1,5 +1,6 @@
 
-## Olá, eu sou a Laíne Moura!
+<h1 align="center">Olá, eu sou a Laíne Moura!</h1>
+
 <div align="center">
   <a href="https://github.com/lainermoura">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lainermoura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
